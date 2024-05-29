@@ -1,6 +1,6 @@
 # freeyourself_app
 
-A new Flutter project.
+A new Flutter project for educational purposes.
 
 ## Getting Started
 
